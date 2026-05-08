@@ -18,12 +18,11 @@ function App() {
         <img src={heroImg} className="hero-image" alt="Hero" />
 
         <h1>
-          Build Amazing Apps with <span>React + Vite</span>
+         HELLOO ZAGZEG WORLD
         </h1>
 
         <p>
-          Belajar membuat aplikasi modern dengan performa cepat,
-          tampilan keren, dan pengalaman coding yang menyenangkan.
+         SUTRIS DAN PUNTO
         </p>
 
         <div className="button-group">
